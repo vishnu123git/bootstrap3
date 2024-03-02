@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+img{
+    height: 400px;
+}
+
+h1{
+    
+        font-family: "Anta", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        padding-top: 2rem;
+        color: white;
+        
+      
+}
+
+
+
+  h2{
+    font-family: "Oswald", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2rem;
+  }
+
+  .ac{
+    width: 30%;
+    height: auto;
+    border-radius: 50%;
+  }
+   .list{
+    list-style-type: none;
+    text-align: center;
+   }
+
+   .color{
+    background-color: palevioletred;
+   }
+.mm{
+  background-color: black;
+}
+   
+
